@@ -5,6 +5,14 @@ const nextConfig = {
       {
         protocol:'https',
         hostname: 'lh3.googleusercontent.com',
+      },
+      {
+        protocol:'https',
+        hostname: 'falabella.scene7.com',
+      },
+      {
+        protocol:'https',
+        hostname: 'imagedelivery.net',
       }
     ]
   }
